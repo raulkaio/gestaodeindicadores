@@ -24,7 +24,7 @@ include 'header.php';?>
 		<h2>Empresa <small>cadastros da empresa</small></h2>
 		<div class="row">
 			<div class="col-md-4">
-			<a href="" class="btn btn-primary btn-lg btn-block">Metas</a>
+			<a href="/GESTAOdeINDICADORES/cadastro/meta.php" class="btn btn-primary btn-lg btn-block">Metas</a>
 		  </div>
 		  <div class="col-md-4">
 			<a href="/GESTAOdeINDICADORES/cadastro/funcao.php" class="btn btn-primary btn-lg btn-block">Funções</a>
